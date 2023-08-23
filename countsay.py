@@ -1,0 +1,3 @@
+def solver(array):
+    count = []
+    
